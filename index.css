@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    padding: 10px;
+    background-color: rosybrown;
+    scroll-behavior: initial;
+}
+
+.art h3 {
+    margin: auto;
+    padding: 5px;
+    color: indigo;
+    background-color: lavender;
+}
+
+.art img {
+    margin-left: 250px;
+    padding-bottom: 10px;
+    background-color: lemonchiffon;
+    shape-image-threshold: inherit;
+    width: 20%;
+    height: 70%;
+    
+    
+} 
+
+#list {
+    background-color: slategrey;
+    color:black;
+    padding: 20px;
+    margin-left: 10px;
+    font-weight: inherit;
+    font-style: initial;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: unset;
+    font-display: none;
+}
+
+.design{
+    background-color: turquoise;
+    color: black;
+}
+
